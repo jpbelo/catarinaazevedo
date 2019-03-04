@@ -1,6 +1,7 @@
 {
   "version": 2,
   "name": "catarinaazevedo.com",
+  "alias": ["catarinaazevedo.com"],
   "builds": [
       {
         "src": "package.json",
